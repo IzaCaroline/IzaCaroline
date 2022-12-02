@@ -1,8 +1,8 @@
 <h1> 🍃 Oii eu sou a Iza Caroline!! :) </h1>
 <div align="center">
   <a href="https://github.com/IzaCaroline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzaCaroline&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaCaroline&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IzaCaroline&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaCaroline&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline-block">
   <h1> 🔰 Linguagens&Ferramentas</h1>
@@ -22,4 +22,4 @@
 <a href="https://www.instagram.com/izacaroline__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
- ![Snake animation](https://github.com/IzaCaroline)
+![Snake animation](https://github.com/IzaCaroline/IzaCaroline/blob/output/github-contribution-grid-snake.svg)

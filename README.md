@@ -24,5 +24,5 @@
 <a href="https://twitter.com/Izacaroline__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/izacaroline__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
+  
 ![Snake animation](https://github.com/IzaCaroline/IzaCaroline/blob/output/github-contribution-grid-snake.svg)
